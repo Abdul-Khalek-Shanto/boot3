@@ -1,0 +1,22 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.icon-sm {
+    width: 71px;
+    height: 68px;
+    line-height: 48px !important;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.pl-5, .px-5 {
+    padding-left: 5rem!important;
+}
+
+.text-gray{
+    color: #8D8D8D;
+}
